@@ -1,2 +1,2 @@
 # TheIndiaChat
-Start
+Start here to share ideas and research.
